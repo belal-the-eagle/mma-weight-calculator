@@ -15,8 +15,7 @@ A simple and efficient Python tool designed for fighters to calculate their weig
 1. Make sure you have **Python 3** installed on your system.
 2. Clone this repository or download the script.
 3. Open your termux or terminal (Linux/Windows) and run:
-```bash
-   python App.py
+```bash python App.py
 👤 About Me
 ​Name: Belal Youssry Nada
 ​Focus: High School Student | Python Developer & Cybersecurity Enthusiast | MMA Practitioner.
